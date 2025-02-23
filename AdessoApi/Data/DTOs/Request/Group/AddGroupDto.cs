@@ -1,4 +1,4 @@
-﻿namespace AdessoApi.Data.DTOs.Request
+﻿namespace AdessoApi.Data.DTOs.Request.Group
 {
     public class AddGroupDto
     {

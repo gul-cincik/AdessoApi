@@ -1,5 +1,5 @@
-﻿using AdessoApi.Data.DTOs.Request;
-using AdessoApi.Data.DTOs.Request.Country;
+﻿using AdessoApi.Data.DTOs.Request.Country;
+using AdessoApi.Data.DTOs.Request.Group;
 using AdessoApi.Data.DTOs.Response.Shared;
 using AdessoApi.Entities;
 

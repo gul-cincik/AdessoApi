@@ -1,5 +1,5 @@
 ﻿using AdessoApi.Data;
-using AdessoApi.Data.DTOs.Request;
+using AdessoApi.Data.DTOs.Request.Group;
 using AdessoApi.Data.DTOs.Request.Team;
 using AdessoApi.Data.DTOs.Response.Shared;
 using AdessoApi.Entities;
